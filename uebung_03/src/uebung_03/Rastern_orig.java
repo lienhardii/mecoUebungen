@@ -63,8 +63,6 @@ public class Rastern_orig extends JPanel {
 		polyC[7] = new Point2D.Double(60.0, 50.0);
 		polyC[8] = new Point2D.Double(30.0, 50.0);
 		polyC[9] = new Point2D.Double(30.0, 60.0);
-		polyC[10] = new Point2D.Double(40.0, 60.0);
-		polyC[11] = new Point2D.Double(40.0, 30.0);
 		/*---------- ruer kantentabellen und filter end ----------*/
 
 		canvas = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
